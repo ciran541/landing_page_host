@@ -1,0 +1,576 @@
+2024-12-19 05:06:51 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 50000
+            [rate_type] => both
+            [name] => ciran
+            [email] => live@gmail.com
+            [contact] => 47185296
+        )
+
+)
+
+2024-12-19 05:06:51 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 50000
+            [rate_type] => both
+            [name] => ciran
+            [email] => live@gmail.com
+            [contact] => 47185296
+            [submission_date] => 2024-12-19 05:06:51
+        )
+
+)
+
+2024-12-19 05:06:55 - Array
+(
+    [API Response] => {"result":"success","row":8}
+)
+
+2024-12-23 08:48:29 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciranjivi
+            [email] => ciran@gmail.com
+            [contact] => 74185296
+        )
+
+)
+
+2024-12-23 08:48:29 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciranjivi
+            [email] => ciran@gmail.com
+            [contact] => 74185296
+            [submission_date] => 2024-12-23 08:48:29
+        )
+
+)
+
+2024-12-23 08:48:33 - Array
+(
+    [API Response] => {"result":"success","row":3}
+)
+
+2024-12-24 03:05:39 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@gmail.com
+            [contact] => 74185296
+        )
+
+)
+
+2024-12-24 03:05:39 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@gmail.com
+            [contact] => 74185296
+            [submission_date] => 2024-12-24 03:05:39
+        )
+
+)
+
+2024-12-24 03:05:42 - Array
+(
+    [API Response] => {"result":"success","row":3}
+)
+
+2024-12-24 03:50:40 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+        )
+
+)
+
+2024-12-24 03:50:40 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [submission_date] => 2024-12-24 03:50:40
+        )
+
+)
+
+2024-12-24 03:50:42 - Array
+(
+    [API Response] => {"result":"success","row":3}
+)
+
+2024-12-24 03:55:00 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+        )
+
+)
+
+2024-12-24 03:55:00 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+            [submission_date] => 2024-12-24 03:55:00
+        )
+
+)
+
+2024-12-24 03:55:03 - Array
+(
+    [API Response] => {"result":"success","row":4}
+)
+
+2024-12-25 02:49:59 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 600000
+            [rate_type] => both
+            [name] => Max 
+            [email] => khaikaichua@gmail.com
+            [contact] => 01115353735
+        )
+
+)
+
+2024-12-25 02:49:59 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 600000
+            [rate_type] => both
+            [name] => Max 
+            [email] => khaikaichua@gmail.com
+            [contact] => 01115353735
+            [submission_date] => 2024-12-25 02:49:59
+        )
+
+)
+
+2024-12-25 02:50:01 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 600000
+            [rate_type] => both
+            [name] => Max 
+            [email] => khaikaichua@gmail.com
+            [contact] => 01115353735
+        )
+
+)
+
+2024-12-25 02:50:01 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 600000
+            [rate_type] => both
+            [name] => Max 
+            [email] => khaikaichua@gmail.com
+            [contact] => 01115353735
+            [submission_date] => 2024-12-25 02:50:01
+        )
+
+)
+
+2024-12-25 02:50:02 - Array
+(
+    [API Response] => {"result":"success","row":3}
+)
+
+2024-12-25 02:50:03 - Array
+(
+    [API Response] => {"result":"success","row":4}
+)
+
+2024-12-25 12:13:48 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => fixed
+            [name] => wen bin
+            [email] => wenbinkhoo@gmail.com
+            [contact] => 0187837669
+        )
+
+)
+
+2024-12-25 12:13:48 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => fixed
+            [name] => wen bin
+            [email] => wenbinkhoo@gmail.com
+            [contact] => 0187837669
+            [submission_date] => 2024-12-25 12:13:48
+        )
+
+)
+
+2024-12-25 12:13:51 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => fixed
+            [name] => wen bin
+            [email] => wenbinkhoo@gmail.com
+            [contact] => 0187837669
+        )
+
+)
+
+2024-12-25 12:13:51 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => fixed
+            [name] => wen bin
+            [email] => wenbinkhoo@gmail.com
+            [contact] => 0187837669
+            [submission_date] => 2024-12-25 12:13:51
+        )
+
+)
+
+2024-12-25 12:13:52 - Array
+(
+    [API Response] => {"result":"success","row":5}
+)
+
+2024-12-25 12:13:54 - Array
+(
+    [API Response] => {"result":"success","row":6}
+)
+
+2024-12-26 04:28:35 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => both
+            [name] => ciran
+            [email] => sales@lexsureflooring.com
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA4IhjDfAF5-MRgxL-hbVq4yONqoGyGFPBvS2QCPApTHcG56uSy7tM3lS8Hb5ELr8hESzsX4xu9dMRDqHNYmSBNV9ZmGL4HQLlTif9zI9O_NmL5kvkMRNDdubHZV62gEWDTZMVd6Vodv5XopNxTxD5ObYsB8AXmCKlYZs7H3gVH2rD4pdQBzD3zaLxvS-1-mCowqEHecgwanLKdENSpey-T13dL-L30nRK875KTSKjDdM8ILE7UgDES5rxV-gVaex_N0rqJ6swjT0tIlZ2ADWSOvPkkc7MUrf4L9VgRc8rfpn92og0V6_0KeiBUcDALjKaJ6PBu9Te-c6aFN3DYMCd4EPgeV9POfVkzc9xEOWsy8FQ-cKcjhjUKnDoI2eTiQA30QubozUPgkCEvUYBj5JeMw5YK3hsYCAAoaAZC6lBeknBaJq0CxxDW-VwX5pyrSLSCvYpSPbnm-wclGeMGk361tK_nzBsSnetGkdCWiHDxbY-KYOfJnw2eJyjaeE7_FKpbPdbwyXIqadbL6LeZQOEGYVTScLrDeL4Yo_7_EZrbAdM_Ngq6V9Z_ychvLmiznRrj5PhdZo3mL9ktexBRVn1XXUYAILPiSyedN2GkP2Cko2W5x7IPvtxCyddBQipJiZnQCdZiIoPe5mjHB8rasCw-XZXtr8pdylH1BhZISC__uCmaqXMNbJF3jfrb-M4GvX33O8KS_P0B-j0ihNpDO1whz03j2a25ngOcpS2ICyJxkBe_zoVkk6K_DVE2dmWQ2To2nBUphFRukQRXE7TemdwjIObI8odT0dN5f72cNvjZdI8pSElEY47A2SQJXQhbdwG5rT7ZAtrqNJCFNqMG4FscRdLhQCX-VryhU-DOgG6-LXxxtRLCUuWuJ2t7cXoEpyItcoMkvLnmR3whS0e4ZtUXWF2GSxehl0cP647pddu36kaYwbUM0fRmvKjhKXFiYoCqWHtdvBywAbdPiVwCqvrn9r37Ugw4aGDw2D68sEcK-GU05OwF6jfkZBHpg9RsguiO6T8DeiAvU3rmyFmLwXjtkRKj4zeNzqqEcUUegTubodaKZIB1iZSnjX_JD3NSex1YeiZZm14cB7nbFJqC5Y455CbCEXYivd-SQ4fsy4WjP1UGaXd8v6grrQFtLCiZmRAG48yV8r9sz-VQxpWroWW5-aksdxkLOtVETswuSgkUQG-vNtp4_EWO-BunTms37ovoBDMpzvQCIqRkm1IhD92Ls_88SY7aGPjumOBfL-JXhSVS_S6tUYaBhkVZdfoULqr1-J3G1S4nOzyFQmAbQxzbS_9gHRd0-GvpfXuPMQNV6QOiHnHYc6hpBRFJuiNzNrzIueXhRNKvaz3_m66ibF47bYXejXYfiMUmt-DqYRzIT-WCAXJYYH-bMiIuRGCgwlz917wtvRMWf5HtKcFWj2VBmnYBzx6F0AxZCWawNAjH1rcwEkSqxRNTVydFwrya6PXzLg4U1FvX2HM0rzbpHbFw9Jg0jw5rtOKzgIuB22sGRRr7sHC8Tr63nP0RZZrzF8YCHV0Uh3b1BY8I6YiiqTCmaHrXvkQa3AuzMbHV1Kqa8AEFxx0GCun2ROE5RcFK2kEZVcxieAUxqB_PCumzrKad87v0anJDWjtGJsfF_cc4vARprsHcSKvOqXOP80CQYl-y5RHl5z6wSA5AUCqh3zSuv5tWgrRVUZYQd_hfmbVrHN11nEKnDrfTB7oDgCnrWaZNuQVcsNkad5W7JZoKjgTlRGqaisMKHdJLy_5Tz0NKEGysQvk1mn--IPcqagZFZM98k1g3-p7-wAyFqpwG4lW_zgP_rM5ANghrezw6FZxR6ZfeIjdoiCh1GjprUMiRKT4W6MlLApii351UyCANcACkhtLm1-YsYE2TgeAgaMqYSD9jKKR03bcJfHnOsINCk1F4FYTbGVZXzYQkH4XYI1ux2RtAaqQ
+        )
+
+)
+
+2024-12-26 04:28:35 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => both
+            [name] => ciran
+            [email] => sales@lexsureflooring.com
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:28:35
+        )
+
+)
+
+2024-12-26 04:28:38 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
+2024-12-26 04:38:25 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA42RYtr-tkGyP2fyRe5Re3fdio97uMcrhKBSsy3yv81iMuil7uQ-agJ-8nMresff42O0qNtp7TbI7o8vxOPJdR7_1pcpE-EbXL4xEUGPizIjz59C0VDWwQKTkg9CjPYo6FoH7mcUACVZ3YRmuuGP6mMgOPH19q-t-fsHSpu8wQT1XCYNKeoA2NIu2Tpt5YZNtQEmQM1VOnKoG0RMeOA91SMfWLMu-MZEy_qfyXpSG5eiZhb4BuU2sReqyLMR_ZDLnGP1_uhjepiL6XMc4A5DPSFYXwmislWcLn6OFs6X6pN9uASAxw9LRIo4QCI_PQHrdkdr4pguT4Zx2-IrIQBrTNRs_l0e-q70v5WTuK9ZqBcfVYj0P7-EwBDmjDaPyaLiywUUY7j-DIw4twJALvZ05JQLRLrnXOOeomKHJs8FDXbjpEHCdlGxldB0u9FspHQ4UKKwj3M_j0jd66wZZJGAL450b-thlbekKZw6RYumojzEqEQjbdSG0mV-9p7495zOAKSGr_IzUZKxyYkvj7Oj9qenF3owVjZJmGXE76YK4SnaMenpfN3CXIxn_MOlutYLvEcR1Tv6B6fmgXZGkAVtK3InSSYYyH367ka6mol2bJWV445xYLEwsint_-qx8FfsG4eznQnW6MC4wzgmm6q-a7kBrttzqMS_6KaFitPYCN7bccsyDLPF2-YsASu_olAw5KhKrkhqn4sMfh7LnO97TzNAu-ttSoFg0Kri6FsRsUEYU3NhKUV3Ty_Z-OtJsIFJ5Bz5gbYthHZS30DRztyOP73olZBBVXzWUDuMoXOQvUeceMWqewy38VeHyw0im98el-SGNS768Eh1UP9cg-JtasJ6wiwD3ETfP_NwQFluuZG9vy_eNfAvKclCkUuWN1vQKVGeqkJNUQEWiMagMBOjuyXEO7KN3T6F6mpES06v3HizLskHOnD6W0arc4u6848CorHy8Wj0hHQGZEzQM0qYuuZhqQYMhJGNaCQ9PqnK28nQoWVqROsgUzbnFPOWAA7NnECUaPYbAAUXKpGAp9J-vB7RHzoQEDBcRJKBEVULLpByaXjDBjA7Q2JqYpmocg2kpNyD0IDMIMv-_-BpG6xyN_go4U9_XAiS1I7gJpqk4FGi1IC5C61lKksR_gG44g72AQYizmZM76prWL97pMzh_W9QK_BTVEdHwuLfjKfsD5oWw9yI1EyBQfdnCdvp_xRZsmWwE0O8od_G9tsHZZCzaqeamAJd0iQMISP9gvqqW_O8ll4hdqz6Z5ryb-DICWoqwTbXziFXriVgoHq5KUzBRXEqQcCpfN2swps4dsvQRX9rdeU2Ezm1KcsGgkbHGhoGLd8PAu3Jw36rLkVZG8LSw88hS-RJwD3_u4XNxhapVNXLzeEmQYNsYzE6Fe8a_bCn6-qLrMBKRAj2Nxuupk1a5608dwqcM0ZsIkAjaSQDGx1_AfyA4zqOC2o0NROEP2zQUacZ05nM0U0YvvaZj-l3F68el9wiFlW07SHffpLmZ2N-i1t_My4LjRNLc2sjtDhddwwsND1VDFDPuXbI7x-8-eMY9JbvqSud7Vd75PMB5nLbxLYPxk-19yo23-NrEBSlYaSy_TOHzQlFFp_3Zvx1CVpCTH52WvKPViFu1wnHH8E2bbUtMRJelC81hFOIy9ebmENHsAahFhK0Ae3jHCvbBfrG-0w9_4NasbEO3NghUmRZPNq8L-DOWTjMPCu5iIsA0-seGjTFycmCua3TYecTJcAHLsZRTzAoA3iI1GuK0V5bbLkehTm__miL1gul6bPwjtj90VDouMSdkNTSpAoS48Sbqe62tLrehTV1PvhgA_2WxsWOpUQ8B6Mw4QsmlE7hL_vMBdhIk9d73ef3zh3jwGSXoz6HG53QjTEF-hvk0fFHn2IvqxlNZNB8Bcl4TfEWoZDBuBHnE8WHZFcryRAhnl3kBGDjfDelPognuUqvGWQdlOLTFk
+        )
+
+)
+
+2024-12-26 04:38:25 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 400000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:38:25
+        )
+
+)
+
+2024-12-26 04:38:28 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
+2024-12-26 04:45:27 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 4000000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA6FYGUlBisG0YOEswM7VpBfEt3tXZ21hq45BbPyVoHHZ16YXj7uTQ18jDH71g2wEPXy9Gr117ApXIYAT-mG5VqqUUtMtsHAQbBaM42w_00yJcr9FC-t5LwG-RikAHfVVtFmKHL8P1kN0vL-74t9IN46jYBC9G9DLY5DaB9pyZaHktJLAVUv3WfVKdbiZYdKiU1jMLpt6kzoaI-RrMLqBFd-VPfELkqdFW1pQB7Ofc5o_k86UecrN6Fnwe-UUTEKjzXVA-3s-XqIjyqWvBOExHVFsdVcAPL01kvg482FL7fexyGzIn2Jw5s4CFeJc3ron1yUfKqkZsI82gjiH8Wa5YaePi9UJMlFvgCoStpWNRhlUxAK234ofr0btxJ12B0i-i0XUHLkPyoQvejdLqMYTOCHaSRZIMJsyLEGxMUoQ2sO6LaFs2GpSva5vdvOLmkm2CeRFqemWnbUFeS7l7mpEVhLoEKpH9rKmihslt48O4QhexK3MoVhTR5Xfo77NH6mloleUjSag5pKfLeSR-h84YThFx3WT4kY5TtoHnNK5XuOE_4_92GfXnm7lA3WJSCrbcpQtZUhXjlg5K7SsmuTU_ZXeBNiz_TFKcJhPjUsOqJt7HtlPrYpKEe_u5Cx0G4zG5LGNLUokltXSQTOVG_vpwImm3saj4CJ5IBdFBkoogodHSzpoksQqfuGlOvcYOritsT12M0Mbdu1D53vHLTbPGv_rDZ6B8Kl5VeKXgHVTuEpUBNGbETvh75jGtnpm1tYe9ZZ6FxL-Mx0xrQuWXg6dI1dT3ZcXPA1_9Ll6oGe9dOUt19doJ8llopDis2SfGvqqSmwpkBKxtvZ30oZYOVUiceSX1M6rAtsg8xsF-NoLbEC1MwHlNdscXQspVV2EqgWIzrFiVNb0VTKH5NPgeeDfrQjFFTURID9h9J-Y5_F8b7r4FeVErcy1yYzc6ne-AZxbauIjZnuouSCEYXqlhWo4N_Uvzohr_EFDXsyqXLzQrk6nwhIwYe3StaA23aLE8qlnXUngMjk85pAN1BDGlYe-xTeRbMABlInh2z018U0-N6F0HfP8YQM0uAufxLzjIUubPPhrlZB3Y_OGiC2D6S1Z_D-oMuGSBzbiKhsc2gd2uFADrV9ZIvU2k4U4yLszufaUrmLExuQZDdZFBvLPOspD_lOAiym2jshiPqE4UVNE5rzfMWjfk8d4FSCwARYrhbnA0gi-scfugIf89zgDVKXwTZFL7J0Y69fiuE_NpijWWHR1Vb1zRvyjnD-a__g7vuO49WTqRmaqE64cMLZiL-iPO6vSPCMxqJbbvd3obxHDSHB54zzD-gkM2LczD_vD6jgA7gm9LGwziLCO-HO-F5zVOezNSDoZ_RDkqmHy0TKm26VNWDsvSHxhH5NBCK81QtKkbjFTEPkUrL6cVkrPfnF6CmhA0dXlA9U_ySvEdMIsuqpo8qgF12dIyeb5b6ioaBDmAiuStToXBaCoeyJc1Z3pEPZ8d6y-fuw0CWkaqfUZxPHhwauoOzCc3UarXWPeJ4cnhtLf9zstUq0F2yzSxQP5G2sz23N2ETilvejCig0q7a4L_s2UTJkjRLVITLB7sguevwar5g5usaEcIhOTPvU7z36WOZ1fOfAIxrv5GQqi_mb8-B4rTw-Wc0jzX3QMNCYLPO2hHbEp9rtrdxn_QDJXWVyMxihA4g-Ooc1D5k2wJwaOPafAx3jR1NWH5Q6edaMU8XtdkwaEedjh_ufegu8uJTTWmvONuzgKuQkVRfWAyN43bh4e495tb2NKSJm0ehULuqg0XybxoIDJcnLHBcMRVHif-cDtH1YBpJu1LgsnwVLNLZDRbBvPhdRZi2_jqWYT1VP51iG-lE16kiLEAN_mc0C7DGK8XHjoLOBhozospni1KuHR7BLQBPQeDwpJuUGCTZha0urBMFmnHoHNWE4HhBp_zq_-Q
+        )
+
+)
+
+2024-12-26 04:45:27 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => $4,000,000
+            [rate_type] => both
+            [name] => ciran
+            [email] => chiamengyew@hotmail.com
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:45:27
+        )
+
+)
+
+2024-12-26 04:45:29 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
+2024-12-26 04:47:19 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 5000000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA41sdQRSD2p_qww5WzWbuSMP7YViBkiE-UuzlcFlIDMG6LZC5ZKJNLplk7EG6vk_-Dvs1KmpNJAgvo2G0LmeUbHpW8GGG88lsrNzK_MJw02U8CMrjn6jaxdTCBYKBWCOSJXBBeo6WmGJqMT5GyttMAzrKlxmSNSyfNn7u3M79WOO2PDk73hxkFRKLM-1e63JiEcPbsiGv6AWtck8OH-FPYapKBrG7-_cn0bCnfxBBBu8wIfiVTNpplJOuS9OD0RGO_tQZ-SKJtZexz5rOizFUVjEbaVKuUjgEsI3X_GI6DWctLQV_Vu4wWl9fqe6XmCUeBenM2MTDXcUc9mu8M9yF_g4uqDJMC0CPCt80mefOj5gENyUY4ZG0kmriOtifXrOPwh8Xtltkoo-Godk1_Tneus_DlWC36syjIC-OXrzIwwNUQGs4cZl85VY1paaPqXcnYd8Uyp1JcKw7IF4rwKzc1uy4Sgu5FEgVhlDrY7CrrMdmsKbv1CBAyx5S-2XsfG5Wtg9w_XImkRUhDW_8HNYGjCrv_cK_nr2Md5V1l0D0zPkFp5bsbhxg16MS0MmNaLQx_DqWV76-h62Yq5pe6-kdJGWYZB3Gpn_0FP-tpFUSqWdqhuhO6Fh4CIeMPq8SeS5hcggEeinFmhAED7rp2XlGrTHoZWYqK70y6E8XdUQ9K6XCB2rFQnM5SfZb-5sYtl_bes9Jg2aExPT1sRYoVx7PCn_yRGJBqy6tO2kiLVivYTuxtNSyatMFFp_TWO1P3uDhm1HfYNrhtbfPGl9CjDDr_xbbvNI54HJtJH1xFM4MhtIrVfEqDXjgWME2FbwWBdWHW1tyVvgc3GtFCMuv5Rxa5Ltzh48U89_nsHBNmxn_DwXnlURLRD_yhHHtS1rHJe91uVLekEey5AiRm2Zf98cZzMn3y2JEa4KTB2dNvYJ1pjxvjUe4wpP9jobfn0Fe1crSZTse39neayCV_U189m0IRbCRVxvY_6-RB0oZaTt16ITm3vj64sgr967eybi0bZdARnmsmjCa8m97GyMfVnc6Cyb7KJPey1SMOo4c2EZOYCl0HIkZPYx7eXM74-HcaK8yeg33i2fFWDJnfzPcV00TB3Dw6ebabLUecyh4yoHDafXOEwr9ifEsD-MKZHEpXUF6MGZinqz4frVYV46D-YFQ-TqpAL-c6zoQ_MyhzDFLrrgDsBT3NvFhaax5OsAXqGzgfXVeB6xkgZLAG0YuX-Ia70LeGZbu0Z4foJEUnV-jlXcAXZGQxPMIggRZtAakP9vnjrguNaodcpwIdUxI9yfABWUyeBJkX0OZhR_tXLVRgjfK4gIjYkUETYNm_RXJIbwAmQgJZ_KjDSBfKnfXUYBk0gMHW7J514QMvsmKPr-vaSURcfFJPuJL_zpEwyZfq2CVV54Er0rkp919Vi6VlHB4csIAJSg98Hee658I_7N0mN8Umb8h7JtqhM9Qddc_ZS99BbGPAlASofykzcsRGlYS1MixiERmuaKyf39uIXB1kK50oJIaJyUXf0k0R1F_Feyw6r2Y2ZA6SK2wEg9CVj_23PyTiwTwZXXReaVkcKu46Ioq2nIx_BBoorisPlQaP1Gwimf298G0IR5Rg6jpKs7PDvN-dGt8VcnQ-LOnQy2Uk8w-N92B7bx94Z3KWSRkk9qxt5O95roiUBCBSypwMQRu2rr2V4y579kKLMqx5bM2nu0zGCIVFcbxvctDmvvL5rzz70aD6oJpV5WX2Eiz7wUCrDM5U2dZXm95QzBLO7JxiUcw3Ip4j0jHqR3XHqEO1pF8fIFcBEsxVxQBxKBCIj5DorR-53iqeaaeHpzTpfkY3wREw1Y_lS8MSYCnuvbSkVvZg1Bf4d8Q9YR_qAjL_pNR9rDqWyeWEG5qaTsoUeeB1ayTjw6PCBd_ooU2ePW9a1CsOaR4WBB4mbeDq3-XHl32-TcufBHY4pcgrDG9QsAcccwSPTkJo
+        )
+
+)
+
+2024-12-26 04:47:20 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 5000000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:47:20
+        )
+
+)
+
+2024-12-26 04:47:22 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
+2024-12-26 04:48:18 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 500000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA65hW0kq5nJRWC9qbZlr-fqXSIU77j4wpjQCLXm7dSnSTdt7OQW4o7QtJkxdApN0uuQAtm8_Zye7fPe1U6yTIRqGpGfg8wgsk027hRodmpmBEBA076f4S0SbVTxIljBZFTDVjJojQ0YGDdav2SgNOILRq6_ohcNWuFt9KafzHRr7codQhLvSHqjtkqB17eMtC-apUGgqlNIE_ERp4ib-7KSvVjBeFcxSL8f9o9YprKJ6Y6FW2lIbkZ-UWVpZ9HqWGK1c4VJf5gxJ7GhgpRG30G0JPmMQBEToqLqBOfMSgGMQaba8Sk_CQH3jMiL_8Oh4sVuv5bOX0x-7p8hMggwD0LtPn5voosCuLMwLe-VyE7xbuf1ViA6YymCJ9XLLO6d-m3TSBmePdjoeB1G46yRh3pd_2Jo8Zo2hlEmyv0_P1MePO2NFfGrmzpH4NABQxs85FzWrRwVKdgPOe5_NyRkQxoAi2we-NEa6h7Dw_06gmOLEkx_el132dNLMSJ7AzB4SDUyJRfbA8aWH8R4l1X2Sg49gVHSkZLBf_zFIU1X7eF2VBPFgGKPcsvvRyg-sxts3UJ6IS-62rSnUOJsusAmGHBTDIOszZvvSuSl32vs18rkGyWsCjliXdYPb8DSJBoPYCX5WJsz1KF_ZUKz3tvrCF5QsryBw_kPb_Y5zbKE2C3FlVaRiIwS6m5Bw0w6PXstKle6QqTcwdDFwLFCoMaPGM99Jz82oByNnXalZwdffjajDeFO6uHMghYGGwB-Eub4HGQvO6uJVv8AIBu5PtAL9XC7hj_WPDRo_K8buCqrYWlc4kGdbjKrcnz-Gvn7Zb9cx8NFAezkvfiClK38021nt0ghTudeSDHv-u5-I6iKFYS94AWZ4W5Y_O8yyKGoBWo1RQdD0fc-oReblNr5baG2D7SEk-2iXtB5TlcmWcErGw6MT_IZH3FWwCY1IW-k6h4jcKVjxVXB6qhMFGu8Ef9scRR-UBB23vhLirFBrlnQDXJFblXsOJsjJGUfy_LIAVDtEAnzUSB8NA4bPkxZyRhlaQ83nkkJ9zd6mKT23j6ObksBqZ4_E78Zp0WHLL_LkG2s9sFipZFrY39e_ShMKbDu0CfvG611f0eWDdgizYj1dkp6NwEbpt0An0lwUCZPVhjHFAK2MomI6MCORzhKBOcLbvni8D2mDFodZl_CzjVsmddVqfxbXN6DByZbO1L307Bf0zrigJzUk22k-ZPhaGKM6cBJww465CS7Ji4HhFr6m-eJTGAqmIwXIrjodk4spkpamjGzOCRXSwvsfyYS_rw-bIogOs6PmfhIew-D8esPD0TMebTuv1xZhZxN5sOsz0bppcSY3jvl-qaUpic_w_xwP8wmhnZoS7GnWm4U71C-v0QHVD7NbgIxs0pgXcU-MjW_ME8MyYjLcgeTrajV8IcUbwZbJdD5QXuphCiUnxElvqSfLKY29P_-2zLkA8XOg0jVE0o0FvfE0TjG4zOo_qtjbDQzdArQZqxJvm7tA4_8uj_IxMRffsKvyhkdyjvEWLcDHlEG575IByQXqAsNdPwuVxEcL414Je2y1KRTGx79s3GpaQf_VevlHFUykH3uC6qz8VRWGt549OEA_HihqNEFtlikBWqWGZfYjlW2CB-_ehsJEKO33WkpNjXl3EemeJQJk7mS_9R7QMQJzX1dsx7E0p26ARwvzbQ_5tQ4DMvaQk3mYFj3NYK2QzSasGlWJU6GAJJCAzWb5AuANF1qJmVJvptT5X0TcBesXQAxjFbQfjlJm3fWEeVRplLoGfNT8iPLt8B_n0YdTu_4slBJBk6TRPpTL6LKM0aiYImNlZu3WqKvuvDdDOy30DscgeSrxGBFLdtXpaWa3q7DGj4yj5yxyUEjEwhRRzfDgjpiN2Jefgra4kzoXuxNXiiv-ROIJ3ufxvUGTH4CwAvmCgXCB588pBHuKF2sxrQR4pE_YKsRF4qoLYCluYM
+        )
+
+)
+
+2024-12-26 04:48:18 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => $500,000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:48:18
+        )
+
+)
+
+2024-12-26 04:48:21 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
+2024-12-26 04:51:46 - Array
+(
+    [Received Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 5000000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [g-recaptcha-response] => 03AFcWeA5y15TPpDt466x-CsFsMPWvxqntXR3xBR4wc4DaZDMhhbGqDJzX6Hc5jNN_FleCYHN1XSTfqyUgydXAcYDJastoZeGSHvKBMagLxpBd_r1fzvlWVGLE0uYTRSqgVEdUcAYnHBSehWaOPbrSPEUkgah7NcyIDkk968qiu0tKnveFz1onpnVc__JlIZZyIYwYn302oplQfByX6jtUS3VGvnDUAw2NRo_ZnU7LPIK6tJBy0_6pCRgz1K3mEkrli3e5E1TaQlgwPzR0Jvy8TTqsw9JfJGq-57w_sYH3KHpBozKgwebfYX0lAHM3YmnXYgR-fOY438YPPIKiA4cIMDY9IGoUYDwpDP_BwhroWLDyZiSGE-_PLm9QXhyuXxK7FqLuEdgY6tJADrFt-oSFXgYqp6S-mMPnbtrqtiepqPqPiwDRgsGBDbRKpwl-8_D9tfH7QuSp4niHW48UuQy7HcFWMfkmHYCn391CXkdZL6RiTtONehCl4-56pqzEj5tblcG2AciQDwK4vGG2IfN05oEtK7fnJvKIRNBWwrfVCcGRxzrbd6mNOvmmdrEHdzkdUJdDknYcXzYP8owgxb8R7kL9ctNUDWikqaxYzCaLAaHyxUkcnh6KoAY9YmbMsJFgeNrVUNal_gRoM1nMpg9B5QdrzqrIBZQ9EwjN8pxgOeQr8EuxruBBJYo_U-Oi4htBSpvISjBcSL4VI_3dUuE0dh6QZaOFMgGfDQal5cP0sQRDaDYqzb2VtL-zvn83nweAjgYQeACyW91rhlpglDBHjxbC-eYXcUr_T8sUSTPzJqoDfy4c7IfSlqgSz5ZfvSkqW2-OsYCdl6beQ3kEQ2nBEiOfBXllyv0gOvAva1DllxHISEtM1oDCxIC-6io5UiCG2zpDZ45K5WpiqWHibFDKMHZ1qZBkRdcUKpbkA5vIfT2rQrMCOpFvtqWGuG0J8RSciOV0fR7ez8h01RFMJzKMd9CSlwMFu8RJg96-G-1ccViHbwZ7V7BTdu5AFsYT60py1GxP56_JhD9u_5qD38PFwjI7_BiHrBRuvODiSKEzDIrdhMIC3XqS7720i_g2WpBfrCXMTmOvRwIvxwksG0oH7HetAFe6NL837bo0DRNzLJ5hqx0ZQSotd3BY8Gn_zTbcodYRWtnshka8F203ohDPCBAk6Dt6meYn1QgSk5o17OEM9BMuN5btOPoXKIhh1lbk7xF8-b11aTtZg1d9DaZ5IHoI9p6BC9Giw-WodlBy_e_1BjPRgv8dc_NrMqeCLM6IKWUxIks2QQdTy1_Ea-G1W0NXpfDGry1B3j5c-2OCVewaD8jxAAph2XbvZU6aS4Smfj2h9q5O4d2gZW0eNQDwL8LBdjy5xYEa0U45ICwQCL2wqVMWB8rFrNBHe3iCg3QkDuTIYUBV01q6_MzQWfOM7qUNpH5PhSwN-KAwDT1iT5TOZiYZP1pSqDkJyXOTc0qCQg_V0-EEJGYym9SB7upLu8Z8xTks7ffjOiBpt5Q24GuMjJyC3LvTZFbv-JnKA1RoWizDWirWg0dhl8f2yr5qCqV24QU68eotVH0jV0LWqUjUPc1Fo54bQrs_Gq5b4pXp2T1um9kxJjcChhm731suqKw9mK-DprgngDw949VBTA57srw13j1pfiAOazqoiM2hDv0ZfHpY-xYPICBxLq05tFO6d3zdveaD68G44kxc00EMD95iBExNFuroSztae-XgcSB1pAmvaTKKJ94GsdN7lURwzSaocGAxKtwFctU79fmnF9NYp7C0R8n2XuB5SugPnPAf6_GCigcONKTqmoITKdJdYm-bLJT9Dn36eu3f0HlV9Co8NrAb40p6cn1LCvYkvQi4_JxtGaJQwUI1-OUT5VWA_hbrsu1ow_ujx6smadGCN5o0w6QXdm4OrERDuMRGtsu6GSjJ1zlvEWjjkwRwLUjjqrrMPHuRRbk-hVXJmWyZdtK_HlS4Lsg
+        )
+
+)
+
+2024-12-26 04:51:46 - Array
+(
+    [Formatted Data] => Array
+        (
+            [loan_type] => new
+            [property_type] => private
+            [property_purchase] => yes
+            [loan_amount] => 5000000
+            [rate_type] => both
+            [name] => ciran
+            [email] => ciran@theloanconnection.com.sg
+            [contact] => 74185285
+            [submission_date] => 2024-12-26 04:51:46
+        )
+
+)
+
+2024-12-26 04:51:48 - Array
+(
+    [API Response] => {"result":"success","row":7}
+)
+
